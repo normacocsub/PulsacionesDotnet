@@ -1,0 +1,14 @@
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Logica.dll
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Logica.pdb
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Datos.dll
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Entity.dll
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Entity.pdb
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netstandard2.0\Datos.pdb
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.dll
+d:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netstandard2.0\Logica.pdb

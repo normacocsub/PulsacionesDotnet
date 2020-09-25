@@ -1,0 +1,14 @@
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Logica.deps.json
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Logica.dll
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Logica.pdb
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Datos.dll
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Entity.dll
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Entity.pdb
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\bin\Debug\netcoreapp3.1\Datos.pdb
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.csprojAssemblyReference.cache
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfoInputs.cache
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.AssemblyInfo.cs
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CoreCompileInputs.cache
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.csproj.CopyComplete
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.dll
+D:\2020-2 upc\Programacion web\PulsacionesDotNet\Logica\obj\Debug\netcoreapp3.1\Logica.pdb
